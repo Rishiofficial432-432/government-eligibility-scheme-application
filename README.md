@@ -65,9 +65,9 @@ Table: `schemes`
 - documents
 
 ## 🚀 Getting Started
-1. Clone the repository (copy the URL from the GitHub page):
+1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Rishiofficial432-432/government-eligibility-scheme-application.git
    ```
 2. Review the project overview in this README.
 3. Explore the UI design via the [Live UI Preview](#-live-ui-preview).
@@ -88,7 +88,7 @@ Backend, database, and chatbot setup instructions will be added once the backend
 - Member 5 – Integration
 
 ## 📌 Note
-This project is being developed as part of an academic AI/ML assignment focused on social impact.
+This project is being developed as part of an academic AI and ML assignment focused on social impact.
 
 ## 🤝 Contributing
 Contributions and suggestions are welcome. Please open an issue or submit a pull request.
