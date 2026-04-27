@@ -71,7 +71,7 @@ Table: `schemes`
 2. Review the project overview in this README.
 3. Explore the UI design via the [Live UI Preview](#-live-ui-preview).
 
-Backend, database, and chatbot setup instructions will be added as development progresses.
+Backend, database, and chatbot setup instructions will be added once the backend MVP is ready.
 
 ## 🔮 Roadmap
 - Complete chatbot integration
