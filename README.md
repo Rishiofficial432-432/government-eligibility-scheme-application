@@ -1,5 +1,6 @@
 # 🤖 AI Government Scheme Eligibility & Awareness Assistant
 
+## 🧩 Overview
 An AI-powered application that helps people discover government schemes they are eligible for based on personal details like age, income, occupation, and location. It includes an AI chatbot to simplify scheme-related queries.
 
 ## 🌐 Live UI Preview
@@ -64,9 +65,9 @@ Table: `schemes`
 - documents
 
 ## 🚀 Getting Started
-1. Clone the repository:
+1. Clone the repository (copy the URL from the GitHub page):
    ```bash
-   git clone https://github.com/Rishiofficial432-432/government-eligibility-scheme-application.git
+   git clone <repo-url>
    ```
 2. Review the project overview in this README.
 3. Explore the UI design via the [Live UI Preview](#-live-ui-preview).
